@@ -35,9 +35,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=annadheeraj2008-max&show_icons=true&theme=radical" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=annadheeraj2008-max&theme=radical" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=annadheeraj2008-max&show_icons=true&theme=radical" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=annadheeraj2008-max&theme=radical" />
+
 </p>
 ---
 
