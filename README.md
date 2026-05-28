@@ -49,6 +49,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=annadheeraj2008-max&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 </p>
+---
 # ✨ Quote
 
 > “Consistency beats talent when talent doesn’t work hard.”
