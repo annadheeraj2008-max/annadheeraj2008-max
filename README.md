@@ -47,8 +47,8 @@
 
 # 👀 Visitor Count
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=annadheeraj2008-max&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=annadheeraj2008-max&icon=5&color=6" />
 </p>
 
 ---
