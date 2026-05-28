@@ -5,33 +5,34 @@
 🚀 Learning C, C++, Python & Web Development  
 
 ---
-## 🌐 Connect With Me
+
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://instagram.com/dheeraj_singh.___" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+<img src="https://skillicons.dev/icons?i=instagram" height="60" />
 </a>
 
 <a href="https://www.linkedin.com/in/dheeraj-singh-1262963a8" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="60" />
 </a>
 
 <a href="mailto:annadheeraj2008@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" height="60" />
 </a>
 </p>
 
 ---
 
-## 🚀 Languages & Tools
+# 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,html,css,python" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=annadheeraj2008-max&show_icons=true&theme=tokyonight)
 
@@ -39,12 +40,10 @@
 
 ---
 
-## 🔥 Visitor Count
+# 👀 Visitor Count
 
 ![](https://komarev.com/ghpvc/?username=annadheeraj2008-max&color=blueviolet&style=for-the-badge)
 
 ---
 
-## ✨ Quote
-
-> "Consistency beats talent when talent doesn’t work hard."
+# ✨ Quote
