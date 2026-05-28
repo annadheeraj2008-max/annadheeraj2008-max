@@ -12,14 +12,16 @@
 <a href="https://instagram.com/dheeraj_singh.___" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="65" />
 </a>
-
+  &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dheeraj-singh-1262963a8" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="65" />
 </a>
+  &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:annadheeraj2008@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="65" />
 </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -46,7 +48,7 @@
 # 👀 Visitor Count
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=annadheeraj2008-max&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=annadheeraj2008-max&label=PROFILE+VIEWS&color=Oe75b6&style=for-the-badge" />
 </p>
 
 ---
