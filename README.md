@@ -5,20 +5,19 @@
 🚀 Learning C, C++, Python & Web Development  
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/dheeraj_singh.__" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" />
+<a href="https://instagram.com/dheeraj_singh.___" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/dheeraj-singh-1262963a8" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="mailto:annadheeraj2008@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 </p>
 
