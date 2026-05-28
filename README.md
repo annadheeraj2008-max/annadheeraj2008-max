@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**annadheeraj2008-max/annadheeraj2008-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning C Programming, Python and Web Development
+- 💻 Interested in Technology and Coding
+- 🎮 Love Gaming and PC Customization
+- 📚 Student and Future Software Developer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C Programming
+- Python
+- HTML & CSS
+- GitHub Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- Instagram: dheeraj_singh.__
+- Gmail: annadheeraj2008@gmail.com
+
+## ⚡ Fun Fact
+I love customizing my PC and exploring new tech 😄
