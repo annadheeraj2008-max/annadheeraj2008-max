@@ -44,13 +44,11 @@
 
 </p>
 ---
-
 # 👀 Visitor Count
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=annadheeraj2008-max&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=annadheeraj2008-max&style=for-the-badge&color=blue" />
 </p>
-
 ---
 
 # ✨ Quote
