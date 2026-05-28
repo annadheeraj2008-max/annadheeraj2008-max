@@ -2,7 +2,7 @@
 
 💻 Beginner Developer  
 🎓 B.Tech Student  
-🚀 Learning C, GitHub & Web Development  
+🚀 Learning C,c++,phython & Web Development  
 
 ---
 
