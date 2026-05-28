@@ -2,17 +2,25 @@
 
 💻 Beginner Developer  
 🎓 B.Tech Student  
-🚀 Learning C,c++,python & Web Development  
+🚀 Learning C, C++, Python & Web Development  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dheeraj_singh.___)
+<p align="left">
+<a href="https://instagram.com/dheeraj_singh.__" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-singh-1262963a8)
+<a href="https://www.linkedin.com/in/dheeraj-singh-1262963a8" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annadheeraj2008@gmail.com)
+<a href="mailto:annadheeraj2008@gmail.com">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40" />
+</a>
+</p>
 
 ---
 
