@@ -1,20 +1,43 @@
-# Hi there 👋
+# Hi 👋, I'm Dheeraj Singh
 
-## 🚀 About Me
-- 🌱 I’m currently learning C Programming, Python and Web Development
-- 💻 Interested in Technology and Coding
-- 🎮 Love Gaming and PC Customization
-- 📚 Student and Future Software Developer
+💻 Beginner Developer  
+🎓 B.Tech Student  
+🚀 Learning C, GitHub & Web Development  
 
-## 🛠️ Skills
-- C Programming
-- Python
-- HTML & CSS
-- GitHub Basics
+---
 
-## 📫 Connect With Me
-- Instagram: dheeraj_singh.__
-- Gmail: annadheeraj2008@gmail.com
+## 🌐 Connect With Me
 
-## ⚡ Fun Fact
-I love customizing my PC and exploring new tech 😄
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dheeraj_singh.__)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-singh-1262963a8)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annadheeraj2008@gmail.com)
+
+---
+
+## 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=annadheeraj2008-max&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=annadheeraj2008-max&theme=tokyonight)
+
+---
+
+## 🔥 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=annadheeraj2008-max&color=blueviolet&style=for-the-badge)
+
+---
+
+## ✨ Quote
+
+> "Consistency beats talent when talent doesn’t work hard."
