@@ -19,7 +19,7 @@
 - 🎓 B.Tech Student
 - 💻 Beginner Developer
 - 🚀 Learning Web Development
-- 🌱 Currently Learning Python & GitHub
+- 🌱 Currently Learning Python & C++
 - ⚡ Building & Improving Every Day
 
 ---
