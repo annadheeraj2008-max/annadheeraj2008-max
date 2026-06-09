@@ -20,7 +20,7 @@
 - 💻 Beginner Developer
 - 🚀 Learning Web Development
 - 🌱 Currently Learning Python & C++
-- ⚡ Building & Improving Every Day
+- ⚡ Building & Improving Every Day..
 
 ---
 
