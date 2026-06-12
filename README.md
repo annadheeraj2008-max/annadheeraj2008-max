@@ -116,8 +116,11 @@
 </tr>
 </table>
 <p align="center">
-  <img width="100%"
-   src="https://capsule-render.vercel.app/api?type=waving&hight=180&section=footer&colour=gradient&text=Keep%20Learning%20.%2o
-    keep%20Building%20.%20Keep%20Growing%2o💜 &fontsize=28&fontColor=ffffff&animation=twinkling"/>
+  💜 Thanks for visiting my profile 💜
 </p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&text=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&fontSize=28&fontColor=ffffff&animation=twinkling" />
+</p>
+
 
