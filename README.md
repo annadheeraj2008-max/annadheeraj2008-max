@@ -111,6 +111,9 @@
 # ✨ Quote
 
 > “Consistency beats talent when talent doesn’t work hard.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:8A2BE2&height=120&section=footer"/>
+</p>
 
 </td>
 </tr>
