@@ -116,6 +116,8 @@
 </tr>
 </table>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:8A2BE2&height=120&section=footer"/>
+  <img width="100%"
+   src="https://capsule-render.vercel.app/api?type=waving&hight=180&section=footer&colour=gradient&text=Keep%20Learning%20.%2o
+    keep%20Building%20.%20Keep%20Growing%2o💜 &fontsize=28&fontColor=ffffff&animation=twinkling"/>
 </p>
 
