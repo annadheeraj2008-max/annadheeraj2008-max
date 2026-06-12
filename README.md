@@ -5,14 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Beginner+Developer;B.Tech+Student;Learning+C%2C+C%2B%2B%2C+Python;Web+Development+Enthusiast" />
 
 </div>
-
----
-
 <table>
 <tr>
-<td width="35%">
-
-<img src="https://i.pinimg.com/originals/61/8b/8d/618b8d0c4f8c1f5c5f4f8f9e9f4c5b5e.gif" width="100%" />
+<td width="35%"valign="top">
 
 ### 👨‍💻 About Me
 
@@ -21,8 +16,7 @@
 - 🚀 Learning Web Development
 - 🌱 Currently Learning Python & C++
 - ⚡ Building & Improving Every Day.
-
----
+- -------
 
 ### 🌐 Connect With Me
 
