@@ -101,6 +101,11 @@
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/annadheeraj2008-max/annadheeraj2008-max/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 ---
 
 # ✨ Quote
