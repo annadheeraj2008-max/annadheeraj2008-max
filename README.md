@@ -115,9 +115,6 @@
 </td>
 </tr>
 </table>
-<p align="center">
-  💜 Thanks for visiting my profile 💜
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&text=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&fontSize=28&fontColor=ffffff&animation=twinkling" />
