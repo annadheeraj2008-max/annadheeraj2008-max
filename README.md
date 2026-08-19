@@ -87,9 +87,8 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](./profile/stats.svg)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=annadheeraj2008-max&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🐍 Contribution Snake
